@@ -1,0 +1,21 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.Bar {
+  width: 50vh;
+  background-color: salmon;
+  margin: 0 1px;
+}
+
+.Header {
+  text-align: center;
+}
+
+.Controller {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
